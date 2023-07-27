@@ -71,12 +71,18 @@ CREATE TABLE comments (
 );
 
 /*borrar tablas*/
+/*
 DROP TABLE users;
 DROP TABLE followers;
 DROP TABLE posts;
 DROP TABLE reactions;
 DROP TABLE comments;
+*/
 
+/*
 INSERT INTO users (name, last_name, nickname, email, password) VALUES ('Juan', 'Perez', 'juanperez', 'jp@gmail.com', 'Juanperez1');
+*/
 
+/*
 SELECT * FROM users;
+*/
